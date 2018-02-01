@@ -1,0 +1,13 @@
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\plugin.json
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\Views\Configure.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\Views\PaymentInfo.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\Views\_ViewImports.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\logo.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.dll
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Manual\Nop.Plugin.Payments.Manual.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csprojResolveAssemblyReference.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.csproj.CoreCompileInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfoInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.AssemblyInfo.cs
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.dll
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Manual\obj\Debug\net461\Nop.Plugin.Payments.Manual.pdb

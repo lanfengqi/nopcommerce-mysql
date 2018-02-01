@@ -1,0 +1,15 @@
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.csprojResolveAssemblyReference.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.dll
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\net461\Nop.Plugin.Payments.Worldpay.pdb

@@ -1,0 +1,5 @@
+{
+  "DataProvider": "mysql",
+  "DataConnectionString": "database=nop4;server=localhost;user id=root;password=Root",
+  "RawDataSettings": {}
+}

@@ -1,0 +1,13 @@
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\plugin.json
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\Configure.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\PublicInfo.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Views\_ViewImports.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\logo.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Widgets.GoogleAnalytics\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csproj.CoreCompileInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfoInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.AssemblyInfo.cs
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.dll
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.Widgets.GoogleAnalytics\obj\Debug\net461\Nop.Plugin.Widgets.GoogleAnalytics.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\plugin.json
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\logo.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\ExchangeRate.EcbExchange\Nop.Plugin.ExchangeRate.EcbExchange.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.csprojResolveAssemblyReference.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.csproj.CoreCompileInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfoInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.AssemblyInfo.cs
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.dll
+E:\Nut.NET\core\Plugins\Nop.Plugin.ExchangeRate.EcbExchange\obj\Debug\net461\Nop.Plugin.ExchangeRate.EcbExchange.pdb

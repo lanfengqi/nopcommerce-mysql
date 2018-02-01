@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  			<PropertyGroup>
+    				<TargetFramework>net461</TargetFramework>
+    				<Version>4.0.0.0</Version>
+    				<Authors>Nop Solutions, Ltd</Authors>
+    				<Company>Nop Solutions, Ltd</Company>
+    				<Description>The project contains a set of classes for testing of Nop.Core</Description>
+    				<Copyright>Copyright © Nop Solutions, Ltd</Copyright>
+    				<PackageLicenseUrl>http://www.nopcommerce.com/licensev3.aspx</PackageLicenseUrl>
+    				<PackageProjectUrl>http://www.nopcommerce.com/</PackageProjectUrl>
+    				<RepositoryUrl>https://github.com/nopSolutions/nopCommerce</RepositoryUrl>
+    				<RepositoryType>Git</RepositoryType>
+    				<Product>Nop.Core.Tests</Product>
+  			</PropertyGroup>
+  			<ItemGroup>
+  			  <ProjectReference Include="..\..\Libraries\Nop.Core\Nop.Core.csproj" />
+  			  <ProjectReference Include="..\Nop.Tests\Nop.Tests.csproj" />
+  			</ItemGroup>
+</Project>

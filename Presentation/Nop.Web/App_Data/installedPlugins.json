@@ -1,0 +1,18 @@
+[
+  "DiscountRequirement.MustBeAssignedToCustomerRole",
+  "CurrencyExchange.ECB",
+  "ExternalAuth.Facebook",
+  "Payments.CheckMoneyOrder",
+  "Payments.Manual",
+  "Payments.PayPalDirect",
+  "Payments.Square",
+  "Payments.WorldpayUS",
+  "Payments.PayPalStandard",
+  "Pickup.PickupInStore",
+  "Shipping.FedEx",
+  "Shipping.FixedOrByWeight",
+  "Shipping.UPS",
+  "Tax.FixedOrByCountryStateZip",
+  "Widgets.GoogleAnalytics",
+  "Widgets.NivoSlider"
+]

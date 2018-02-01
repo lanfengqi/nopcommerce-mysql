@@ -1,0 +1,12 @@
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Nut.NET\core\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.dll
+E:\Nut.NET\core\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\net461\Nop.Plugin.Payments.PayPalStandard.pdb
